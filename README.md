@@ -1,0 +1,1 @@
+I have created a Medicine Assistant Chatbot which suggest you medicine for your diseases. However, this chatbot is restricted to the limited amount of data set. This is not based on any API. I have used HTML, CSS and Java Script to program this features.
